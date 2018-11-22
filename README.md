@@ -1,4 +1,4 @@
 # responsive
-# come up with project app, maybe farm or something else
-# pick language/s of choice
+# Tutoring space
+# Python/DJango/HTML/CSS/Bootstrap/postgreSQL
 # create venv
