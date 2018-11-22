@@ -1,0 +1,21 @@
+/*ovrwNav*/
+
+.nav{
+	background-color: blue;
+}
+
+.navbar-header{background-color: blue;}
+
+.navbar navbar-inverse{background-color: blue;}
+.navbar-brand{backgroun-color: blue;}
+.collapse navbar-collapse {background-color: blue;}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{backgroun-color:blue;}
+#myNavbar.collapse.navbar-collapse{background-color: blue;}
+.dropdown-open{background-color: blue;}
+.container-fluid{background-color: blue;}
+.ul nav navbar-nav{background-color: blue;}
+.nav navbar-nav ul{background-color: blue;}
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form {
+border-color: blue;
+
+}
